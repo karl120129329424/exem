@@ -12,6 +12,7 @@
   (используйте «git add <файл>…», чтобы добавить файл в индекс)
   (use "git restore <file>..." to discard changes in working directory)
         изменено:      README.md
+        
 5. git add .
 6. git commit -m "комментарий"
 7. git push или git push origin main
